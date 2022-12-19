@@ -177,6 +177,7 @@ a {
   font-style: normal;
   font-weight: 400; /*300;*/
   font-size: 26px;
+  text-decoration: none;
   color: black; /*#D0D3D4;*/
   line-height: 1.2;
 }
