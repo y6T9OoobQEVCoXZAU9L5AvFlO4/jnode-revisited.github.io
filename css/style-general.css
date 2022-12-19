@@ -1,8 +1,5 @@
-/* --------------------------------- CATATAN -------------------------------- */
-
-/* 
+/* --------------------------------- CATATAN 
    Typography :
-
    h1 = header
    h2 = sub header
    h3 = button
@@ -10,13 +7,11 @@
    h5 = section title (at recet works, etc)
    h6 = recent works detail
    a  = section body (at recet works, etc)
-
    All responsive modes are tested on : http://responsivetesttool.com/
-*/
 
-/* ------------- PRE-LOADER SCREEN (WAIT TILL IMAGE HAS LOADED) ------------- */
+PRE-LOADER SCREEN (WAIT TILL IMAGE HAS LOADED)
 
-/* Empty - Not Working */
+Empty - Not Working */
 
 /* ------------------------------- MARGIN TOP ------------------------------- */
 
@@ -179,12 +174,10 @@ h6 {
 a {
   position: relative;
   z-index: 100;
-
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400; /*300;*/
   font-size: 26px;
-  color: #D0D3D4;
-
+  color: black; /*#D0D3D4;*/
   line-height: 1.2;
 }
 
